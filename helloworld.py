@@ -1,4 +1,4 @@
-#/usr/bin/python
+#/usr/local/easyops/python/bin/python
 #-*- coding:utf-8 -*- 
 
 import web
